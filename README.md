@@ -8,4 +8,3 @@ Otherwise when we set into lihgt mode the app will be change into light mode
 ![alt_text](ScreenShot/ss-1.png)
 
 * **Faridho** - [Medium](https://medium.com/@faridho)
-jjh
